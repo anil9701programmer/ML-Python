@@ -1,6 +1,6 @@
 Welcome to ML-Python!
 
-In this repository, you will find various programs and scripts that demonstrate different concepts in coding. I've included comments throughout the code to provide explanations and insights into how each piece of code works.
+In this repository, you will find various programs and scripts that demonstrate different concepts in coding especially in the context of machine learning and data science. I've included comments throughout the code to provide explanations and insights into how each piece of code works.
 
 It's important to note that some of the comments also contain code snippets that may produce different outputs depending on the inputs provided. These commented-out code sections are there for you to explore and experiment with. Feel free to uncomment these sections, modify the inputs, and observe the outputs to gain a deeper understanding of the code's functionality.
 
